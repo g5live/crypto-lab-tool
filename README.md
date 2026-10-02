@@ -1,3 +1,5 @@
+![G5LIVE — Build · Understand · Apply](assets/brand/g5live.svg)
+
 # Crypto Lab Tool
 
 An evolving offline encryption, decryption, and hashing multi-tool, starting from three completed cryptography exercises. Python 3.8+ and PyCryptodome are required. No HTTP requests, wordlist loops, embedded room answers, keys, or personal paths.
@@ -75,3 +77,7 @@ Files are read in chunks. SHA-256 is the default; SHA-512, SHA3-256, BLAKE2b, SH
 - Expand malformed-input tests and release documentation.
 
 Existing RSA and CBC operations are educational primitives, not a production file-encryption format. The project grew from self-written TryHackMe exercises; the implementation has been sanitised and refactored, with no room flags or answers included.
+
+## Shared brand and release preparation
+
+Part of the G5LIVE app family. See the [shared brand guide](assets/brand/BRAND.md) and [project-specific release-readiness review](docs/RELEASE_READINESS.md) for proposed functionality and public-release preparation.

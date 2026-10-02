@@ -1,4 +1,4 @@
-"""Offline cryptography exercises; no embedded keys, targets, or room answers."""
+"""G5LIVE Crypto Lab Tool. Offline cryptography exercises; no embedded keys, targets, or room answers."""
 import argparse
 import base64
 import binascii
